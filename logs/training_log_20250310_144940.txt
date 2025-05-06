@@ -1,0 +1,2 @@
+Training Log
+Epoch	Total Loss	PDE Loss1	PDE Loss2	PDE Loss3	Interface Loss12	Interface Loss23	Boundary Loss	Analytical Loss

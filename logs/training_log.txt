@@ -1,0 +1,4 @@
+Iteration 0: total_loss=1152.770142
+Iteration 100: total_loss=0.016512
+Iteration 0: total_loss=1982.326782
+Iteration 100: total_loss=0.037508
